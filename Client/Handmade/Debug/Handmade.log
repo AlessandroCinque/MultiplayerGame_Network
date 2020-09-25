@@ -1,0 +1,35 @@
+﻿  AABB.cpp
+  Animation.cpp
+  Audio.cpp
+  AudioManager.cpp
+  Background.cpp
+  EndState.cpp
+  Game.cpp
+  GameObject.cpp
+  GameState.cpp
+  InputManager.cpp
+  Main.cpp
+  MainMenu.cpp
+  MenuState.cpp
+  Orc.cpp
+  Player.cpp
+  PlayState.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Handmade\PlayState.cpp(134): warning C4101: 'key': unreferenced local variable
+  ScreenManager.cpp
+  SFX.cpp
+  Sphere.cpp
+  Sprite.cpp
+  Generating Code...
+  Compiling...
+  String.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Handmade\String.cpp(202): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Handmade\String.cpp(257): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Handmade\String.cpp(288): warning C4101: 'j': unreferenced local variable
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Handmade\String.cpp(288): warning C4101: 'i': unreferenced local variable
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Handmade\String.cpp(333): warning C4018: '<=': signed/unsigned mismatch
+  TCPClient.cpp
+  TCPSocket.cpp
+  Text.cpp
+  TextureManager.cpp
+  Generating Code...
+  Handmade.vcxproj -> C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Client\Debug\Handmade.exe

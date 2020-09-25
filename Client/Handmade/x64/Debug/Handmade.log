@@ -1,0 +1,40 @@
+﻿  AABB.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\AABB.h(30): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Animation.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Sprite.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Audio.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Audio.h(31): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  AudioManager.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\AudioManager.h(32): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  Background.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\AudioManager.h(32): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  EndState.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Audio.h(31): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  Game.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Game.cpp(1): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\GameObject.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameState.cpp
+  InputManager.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\InputManager.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Main.cpp(29): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MainMenu.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\InputManager.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MenuState.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Audio.h(31): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  PlayState.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Audio.h(31): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  ScreenManager.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\ScreenManager.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SFX.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\AudioManager.h(32): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  Sphere.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Sphere.h(30): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Sprite.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\Sprite.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Text.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\ScreenManager.h(31): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Game.0.3\Handmade\TextureManager.cpp(2): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Generating Code...

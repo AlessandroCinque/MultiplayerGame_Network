@@ -1,0 +1,39 @@
+﻿  AABB.cpp
+  Animation.cpp
+  Audio.cpp
+  AudioManager.cpp
+  Background.cpp
+  EndState.cpp
+  Game.cpp
+  GameObject.cpp
+  GameState.cpp
+  InputManager.cpp
+  Main.cpp
+  MainMenu.cpp
+  MenuState.cpp
+  Message.cpp
+  Orc.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Handmade\Orc.cpp(38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Handmade\Orc.cpp(40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+  PlayState.cpp
+  ScreenManager.cpp
+  SFX.cpp
+  Sphere.cpp
+  Compiling...
+  Sprite.cpp
+  String.cpp
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Handmade\String.cpp(218): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Handmade\String.cpp(240): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Handmade\String.cpp(271): warning C4101: 'j': unreferenced local variable
+C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Handmade\String.cpp(271): warning C4101: 'i': unreferenced local variable
+  TCPServer.cpp
+  TCPSocket.cpp
+  Text.cpp
+  TextureManager.cpp
+  Generating code
+  1122 of 1127 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    258 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Handmade.vcxproj -> C:\Users\Alessandro_Cinque\Desktop\Univeristy\Networking\Game\Net_Game\Server\Release\Handmade.exe
